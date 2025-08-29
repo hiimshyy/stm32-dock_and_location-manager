@@ -1,0 +1,6 @@
+../Core/Src/shared_data.c:26:19:SharedData_Init	2
+../Core/Src/shared_data.c:64:19:SharedData_Update	3
+../Core/Src/shared_data.c:90:19:SharedData_Read	3
+../Core/Src/shared_data.c:113:6:SharedData_SetError	2
+../Core/Src/shared_data.c:129:6:SharedData_ClearError	2
+../Core/Src/shared_data.c:142:10:SharedData_GetErrors	2

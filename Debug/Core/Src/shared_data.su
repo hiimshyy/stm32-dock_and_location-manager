@@ -1,0 +1,6 @@
+../Core/Src/shared_data.c:26:19:SharedData_Init	16	static
+../Core/Src/shared_data.c:64:19:SharedData_Update	24	static
+../Core/Src/shared_data.c:90:19:SharedData_Read	24	static
+../Core/Src/shared_data.c:113:6:SharedData_SetError	24	static
+../Core/Src/shared_data.c:129:6:SharedData_ClearError	24	static
+../Core/Src/shared_data.c:142:10:SharedData_GetErrors	16	static
